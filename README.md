@@ -1,6 +1,12 @@
-### Hello! I'm Damoniy! A Jetbrains Kotlin Developer and Lover. 
+#### Hello! I'm Damoniy! A Kotlin developer and lover. 
 ##
+I'm actually 24 years old, live in Ponta Grossa - PR, married, have a daughter, three cats and three dogs.
+In my free time I like to make some "natural contact with the nature" and I love trees, flowers and the grass at all.
 
+Today I'm studying AngularJS and Quarkus and working in my Minecraft mod called GrayscaleRPG.
+Feel free to look my repositories, hope you like it.
+
+##
 <div>
     <a href="https://www.github.com/damoniy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damoniy&show_icons=true&theme=tokyonight">
