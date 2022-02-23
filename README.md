@@ -1,7 +1,7 @@
 # <p align="center">Hello! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></p>
 
 <div align="center"><i>Damoniy, Kotlin developer and lover.</i></div>
-<div align="center"><b> Actually studying AngularJS and Quarkus.</b></div>
+<div align="center"><b> Actually studying Angular and Quarkus.</b></div>
 
 
 ##
