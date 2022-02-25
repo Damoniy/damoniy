@@ -19,6 +19,7 @@
     <a href="https://quarkus.io/" target="_blank"><img height="60em" width="60em" align="center" src="https://quarkus.io/assets/images/home/icon-rev-reactive.svg" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
         <a href="https://www.mysql.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+    <a href="https://vuejs.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
 
 </div>
   
