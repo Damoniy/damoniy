@@ -1,16 +1,15 @@
-# <p align="center">Hello! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></p>
+# <p align="center">deadByte </p>
 
 <div align="center">
-<p><i>Damoniy, Kotlin developer and lover.</i></p>
-<p><b> Actually studying VueJS and Quarkus.</b></p>
+<p><i>Kotlin developer and entusiast.</i></p>
+<p><b> Adept of Vue.js.</b></p>
 </div>
 
 ##
-<div align="center">
+<!--<div align="center">
     <a href="https://www.github.com/damoniy"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=damoniy&show_icons=true&theme=tokyonight"></a>
     <a href="https://www.github.com/damoniy"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damoniy&show_icons=true&theme=tokyonight&hide=html"></a>
- 
-</div>
+</div>-->
 
 <div align="center" style="display: inline_block"><br>
     <a href="https://kotlinlang.org/" target="_blank"><img height="35em" width="30em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
