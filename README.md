@@ -14,7 +14,6 @@
 <div align="center" style="display: inline_block"><br>
     <a href="https://kotlinlang.org/" target="_blank"><img height="35em" width="30em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
     <a href="https://www.java.com/" target="_blank"><img height="40em" width="45em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://angular.io/" target="_blank"><img height="45em" width="35em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img height="45em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/></a>
     <a href="https://quarkus.io/" target="_blank"><img height="60em" width="60em" align="center" src="https://quarkus.io/assets/images/home/icon-rev-reactive.svg" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
