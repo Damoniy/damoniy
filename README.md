@@ -1,4 +1,4 @@
-# 👋 Olá, bem-vindo(a) ao meu perfil de Engenharia de Dados!
+# 👋 Olá, bem-vindo(a) ao meu perfil!
 
 ## 🔍 Sobre mim
 Sou apaixonado(a) por transformar dados em valor e resolver problemas complexos usando tecnologia e uma pitada de criatividade. 🚀
@@ -27,12 +27,12 @@ Sou apaixonado(a) por transformar dados em valor e resolver problemas complexos 
 
 ---
 
-## 🌟 Minha frase amigável
+## 🌟 Filosofia profissional
 _"Transformando dados complexos em decisões simples, um pipeline por vez!"_
 
 ---
 
-## 😂 Piadinha sem graça sobre dados
+## 😂 Piadinha sem graça pra não perder o costume
 
 > _"Por que o arquiteto de dados se perdeu na floresta? Porque ele estava com muitos joins e esqueceu a chave primária!"_
 
