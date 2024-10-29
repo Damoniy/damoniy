@@ -1,34 +1,41 @@
-# <p align="center">deadByte </p>
+# 👋 Olá, bem-vindo(a) ao meu perfil de Engenharia de Dados!
 
-<div align="center">
-<p><i>Kotlin developer and entusiast.</i></p>
-<p><b> Adept of Vue.js.</b></p>
-</div>
+## 🔍 Sobre mim
+Sou apaixonado(a) por transformar dados em valor e resolver problemas complexos usando tecnologia e uma pitada de criatividade. 🚀
 
-##
-<!--<div align="center">
-    <a href="https://www.github.com/damoniy"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=damoniy&show_icons=true&theme=tokyonight"></a>
-    <a href="https://www.github.com/damoniy"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damoniy&show_icons=true&theme=tokyonight&hide=html"></a>
-</div>-->
+---
 
-<div align="center" style="display: inline_block"><br>
-    <a href="https://kotlinlang.org/" target="_blank"><img height="35em" width="30em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
-    <a href="https://www.java.com/" target="_blank"><img height="40em" width="45em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img height="45em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/></a>
-    <a href="https://quarkus.io/" target="_blank"><img height="60em" width="60em" align="center" src="https://quarkus.io/assets/images/home/icon-rev-reactive.svg" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
-    <a href="https://vuejs.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
+## 🚀 Ferramentas que domino
 
-</div>
-  
-## 
-<div align="center">
-    <a href="mailto:emersonp199@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/damoniyy/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.facebook.com/damoniy" target="_blank"><img height="30em" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</div>
-        
-<div align="center"><img height="150em" align="center" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />
-</p>
-</div>
+### Linguagens e Consultas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Plataformas de Dados e Armazenamento
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/-Apache%20Iceberg-50C878?style=flat&logo=apache&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-FF3737?style=flat&logo=minio&logoColor=white)
+![DataHub](https://img.shields.io/badge/-DataHub-FF5A5F?style=flat&logo=datahub&logoColor=white)
+
+### Processamento e Análise
+![Trino](https://img.shields.io/badge/-Trino-8C489F?style=flat&logo=apache-hive&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat&logo=apache&logoColor=black)
+
+### Desenvolvimento e Versionamento
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🌟 Minha frase amigável
+_"Transformando dados complexos em decisões simples, um pipeline por vez!"_
+
+---
+
+## 😂 Piadinha sem graça sobre dados
+
+> _"Por que o arquiteto de dados se perdeu na floresta? Porque ele estava com muitos joins e esqueceu a chave primária!"_
+
+---
+
+Vamos conectar! 🚀👩‍💻👨‍💻
