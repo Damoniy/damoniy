@@ -1,9 +1,9 @@
 # 👋 Olá, bem-vindo(a) ao meu perfil!
 
 ## 🔍 Sobre mim
-Sou apaixonado(a) por transformar dados em valor e resolver problemas complexos usando tecnologia e uma pitada de criatividade. 🚀
+Sou um engenheiro de dados com uma paixão por transformar dados brutos em informações valiosas, utilizando um conjunto de ferramentas modernas para dar vida a pipelines de dados robustos e escaláveis. Com experiência em sistemas distribuídos, arquitetura de dados e modelagem, meu foco é garantir que cada fluxo de dados contribua de forma eficiente para tomadas de decisão estratégicas. 
 
----
+Adoro explorar novas tecnologias e melhorar continuamente processos para facilitar o acesso a dados confiáveis e relevantes. Quando não estou otimizando queries ou criando pipelines, você provavelmente me encontrará lendo sobre ciência de dados ou aprendendo algo novo sobre a tecnologia de dados! 🚀
 
 ## 🚀 Ferramentas que domino
 
